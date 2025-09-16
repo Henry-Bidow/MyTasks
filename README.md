@@ -4,7 +4,7 @@ MyTasks is a simple, modern, and mobile-responsive To-Do web app built with **HT
 
 ## Live Demo
 
-You can view the app live here: [MyTasks on Netlify](https://app.netlify.com/projects/phenomenal-tapioca-79960b/deploys)
+You can view the app live here: [MyTasks on Netlify](https://phenomenal-tapioca-79960b.netlify.app/)
 
 ## Features  
 
