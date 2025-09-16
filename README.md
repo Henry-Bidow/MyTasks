@@ -6,6 +6,9 @@ MyTasks is a simple, modern, and mobile-responsive To-Do web app built with **HT
 
 You can view the app live here: [MyTasks on Netlify](https://phenomenal-tapioca-79960b.netlify.app/)
 
+## Group name
+Techsmiths
+
 ## Group members
 1. Bidow Henry Baba Razak - 01245151B
 2. Johnson Adzomah - 01246568B
