@@ -6,6 +6,13 @@ MyTasks is a simple, modern, and mobile-responsive To-Do web app built with **HT
 
 You can view the app live here: [MyTasks on Netlify](https://phenomenal-tapioca-79960b.netlify.app/)
 
+## Group members
+1. Bidow Henry Baba Razak - 01245151B
+2. Johnson Adzomah - 01246568B
+3. Quarcoo Anue Josiah - 01243574B
+4. Adzah Richard Khalel Annor - 01244415B
+5. Adovo Kakah Robert - 01244193B
+
 ## Features  
 
 - **Persistent storage** with `localStorage` (data remains after closing the browser).  
