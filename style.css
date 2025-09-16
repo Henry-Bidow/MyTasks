@@ -44,7 +44,7 @@
   /* sidebar */
   .sidebar .section{margin-bottom:16px}
   .filters{display:flex;gap:8px;flex-wrap:wrap}
-  .filter{padding:8px 10px;border-radius:999px;background:transparent;border:1px solid rgba(255,255,255,0.03);cursor:pointer}
+  .filter{padding:8px 10px;border-radius:999px;background:transparent;border:1px solid rgba(255,255,255,0.03);cursor:pointer;color:#98a0b3}
   .filter.active{background:linear-gradient(90deg,var(--accent),var(--accent-2));color:#042;border:0}
 
   /* small touches */
