@@ -1,6 +1,10 @@
-# MyTasks  
+# MyTasks 
 
 MyTasks is a simple, modern, and mobile-responsive To-Do web app built with **HTML, CSS, and JavaScript**. It helps you keep track of tasks, mark them as complete, edit or delete them, and save your data locally in your browser.  
+
+## Live Demo
+
+You can view the app live here: [MyTasks on Netlify](https://app.netlify.com/projects/phenomenal-tapioca-79960b/deploys)
 
 ## Features  
 
